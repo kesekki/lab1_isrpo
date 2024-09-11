@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 xcnnxjds sjsjd sdjbskjs xzhbzkd zckjbzkc
 asf
 aa
@@ -5,7 +6,15 @@ f
 asvf
 asf
 
-d
+dban babn banan banban abnabna abna
 c
 d
 fa
+=======
+dasdsa
+jokur 
+dsdas
+das
+das
+
+>>>>>>> lab1
